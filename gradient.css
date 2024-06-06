@@ -61,7 +61,3 @@ h2{
     height: 50px;
     box-shadow: -0.5px 0.5px 7px 1px yellowgreen;
 }
-
-body{
-    background-image: linear-gradient(to right top, #051937, #008793);
-}
